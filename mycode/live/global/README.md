@@ -1,0 +1,1 @@
+### ~/module/Global Directory: "Production"과 "Development"에 모두 사용되는 system infrastructure 설정 코드
